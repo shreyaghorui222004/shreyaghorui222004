@@ -1,9 +1,6 @@
-# shreyaghorui202
 # 🔥 Hi there! I'm Shreya Ghorui
 
 **Machine Learning Engineering Enthusiast | Web Development | DSA (C++)**
-
----
 
 🌱 I'm currently following steps to master: **Machine Learning**  
 💬 Ask me about: **Python / ML / Web Dev / Designing / Anything**  
@@ -13,7 +10,6 @@
 🌍 Languages I speak: **English, Hindi, Bengali**  
 🇮🇳 From: **India**
 
----
 
 ## 🛠️ Skills and Expertise
 
