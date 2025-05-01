@@ -35,7 +35,9 @@
 - DSA with C++  
 - Python-based logical programming  
 
----
+## 🏅 Badges & Achievements
+<img src="https://github.com/user-attachments/assets/c91fec2d-9740-4269-85cb-bd623578f342" width="90px" height="90px"/>
+
 
 ## 🤝 Connect with me
 
