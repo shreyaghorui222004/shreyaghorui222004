@@ -37,7 +37,7 @@
 
 ## 🏅 Badges & Achievements
 <img src="https://github.com/user-attachments/assets/c91fec2d-9740-4269-85cb-bd623578f342" width="90px" height="90px"/>
-
+<img src="https://github.com/user-attachments/assets/0bade864-2315-48f1-9acc-4b1bce01c464" width="90px" height="90px"/>
 
 ## 🤝 Connect with me
 
