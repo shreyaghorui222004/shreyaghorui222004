@@ -44,10 +44,8 @@
 
 ## 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/shreya-ghorui-63ab9b314/)
-- [GitHub](https://github.com/shreyaghorui222004)
-- [LeetCode](https://leetcode.com/u/shreyaghorui/)  
+- [GitHub](https://github.com/shreyaghorui222004) 
 - [Code360](https://www.naukri.com/code360/profile/shreyaghorui)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/shreyaghorui/)
 
 ---
 
