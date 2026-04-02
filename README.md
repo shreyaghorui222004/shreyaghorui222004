@@ -18,12 +18,12 @@
 ## 👋 About Me
 
 > From India 🇮🇳 — a backbencher with a knack for smart solutions.
-> Currently mastering **Machine Learning** 🧠 — turning data into decisions, one model at a time.
-> Passionate about **Generative AI**, **Power BI**, and **open-source contributions**.
+> Currently mastering **Data Science** 🧠 — turning data into decisions, one model at a time.
+> Passionate about **Data Scientist**,**System Designer**, **Power BI**, and **open-source contributions**.
 
 - 🎓 B.Tech in Information Technology @ **Netaji Subhash Engineering College** (2024–Present)
-- 💡 Interests: **GenAI · Data Analysis · Feature Engineering · Dashboard Building**
-- 💬 Ask me about: **Python / ML / Web Dev / Data Visualization / Anything**
+- 💡 Interests: **System Design . DSA(C++) · Data Analysis · Feature Engineering · Dashboard Building**
+- 💬 Ask me about: **Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
 - 📫 Reach me at: **shreyaghorui202@gmail.com**
 - 🌍 Languages I speak: **English, Hindi, Bengali**
 - ⚡ Motto: *Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am*
@@ -50,19 +50,15 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI / ML & Data
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🛠️ Tools & Databases
