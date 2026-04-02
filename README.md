@@ -72,37 +72,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
-
-## 🚀 Featured Projects
-
-### 📱 Smartphone Data Analysis Dashboard
-
-> _Python · Pandas · NumPy · Regex · Matplotlib · Streamlit — Oct 2025_
-
-- Built an interactive Streamlit dashboard for a large unstructured smartphone dataset.
-- Cleaned and transformed data: handled missing values, inconsistent text, and extracted structured features (brand, RAM/ROM, battery, processor, display).
-- Dynamic filters for brand, OS, price, battery, and rating.
-
----
-
-### 📊 Startup Analysis Web App
-
-> _Python · Pandas · Streamlit · Plotly — Aug 2025_
-
-- Built a Streamlit web app for India startup funding analysis.
-- Visualized trends: top investors, sectors, and funding patterns using interactive Plotly charts (bar, pie, tables).
-
----
-
-### 💉 H4B – Vaccination Portal
-
-> _HTML · React.js · Firebase — Aug 2025_
-
-- Developed a vaccination management system with React + Firebase.
-- Features: authentication, appointment booking, dashboards, and chatbot assistance.
-
----
-
 ## 🏅 Badges & Achievements
 
 <div align="center">
