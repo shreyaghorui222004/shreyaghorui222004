@@ -9,7 +9,7 @@
 [![Follow](https://img.shields.io/github/followers/shreyaghorui222004?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/shreyaghorui222004)
 [![Stars](https://img.shields.io/github/stars/shreyaghorui222004?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/shreyaghorui222004?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=shreyaghorui222004&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/shreyaghorui222004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)]([https://shreya-ghorui-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://shreya-ghorui-portfolio.vercel.app/)
 
 </div>
 
