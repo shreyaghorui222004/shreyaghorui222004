@@ -169,10 +169,10 @@
 <a href="https://www.codechef.com/users/anikchand461"><img src="./assets/socials/codechef.png" width="90px" height="90px" /></a>
 <a href="https://www.hackerrank.com/anikchand461"><img src="./assets/socials/hackerrank.png" width="90px" height="90px" /></a>
 <a href="https://gitlab.com/anikchand461"><img src="./assets/socials/gitlab.png" width="90px" height="90px" /></a>
-<a href="https://www.geeksforgeeks.org/user/anikchand461/"><img src="./assets/socials/gfg.png" width="90px" height="90px" /></a>
-<a href="https://atcoder.jp/users/anikchand461"><img src="./assets/socials/atcoder.png" width="90px" height="90px" /></a>
-<a href="https://www.interviewbit.com/profile/anik-chand/"><img src="./assets/socials/interviewbit.png" width="90px" height="90px" /></a>
-<a href="https://devfolio.co/@anikchand461"><img src="./assets/socials/devfolio.png" width="90px" height="90px" /></a>
+<a href="https://www.geeksforgeeks.org/profile/shreyaghorui"><img src="./assets/socials/gfg.png" width="90px" height="90px" /></a>
+<a href="https://atcoder.jp/users/shreyaghorui22"><img src="./assets/socials/atcoder.png" width="90px" height="90px" /></a>
+<a href="https://www.interviewbit.com/profile/shreyaghorui509_599a9a7d0ef1/"><img src="./assets/socials/interviewbit.png" width="90px" height="90px" /></a>
+<a href="https://devfolio.co/@shreyaghorui"><img src="./assets/socials/devfolio.png" width="90px" height="90px" /></a>
 <a href="mailto:shreyaghorui202@gmail.com"><img src="./assets/socials/gmail.png" width="90px" height="90px" /></a>
 
 </div>
