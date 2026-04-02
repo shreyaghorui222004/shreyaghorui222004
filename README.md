@@ -103,36 +103,17 @@
 
 ---
 
-## 💼 Experience
-
-**Contributor – Open Source Connect** _(Jul 2025 – Present)_
-
-- Contributed to Flask + Pandas backend features.
-- Improved documentation and participated in code reviews.
-
-**Mentor – GirlScript Summer of Code** _(Jul 2025 – Sep 2025)_
-
-- Mentored contributors on Flask, Pandas, and best practices.
-- Guided issue resolution and technical discussions.
-
----
-
 ## 🏅 Badges & Achievements
 
 <div align="center">
-  
+<img src="/assets/badges/yolo.png" width="90px" height="90px" title="YOLO" />
+<img src="/assets/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2025" /> 
 <img src="https://github.com/user-attachments/assets/c91fec2d-9740-4269-85cb-bd623578f342" width="90px" height="90px" title="Badge"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" height="90px" title="Pull Shark"/>
 <img src="https://github.com/user-attachments/assets/0bade864-2315-48f1-9acc-4b1bce01c464" width="90px" height="90px" title="Badge"/>
 <img src="https://github.com/user-attachments/assets/afd374dd-89d8-4257-89e6-a00025912c4c" width="90px" height="90px" title="Badge"/>
 
 </div>
-
----
-
-## 📜 Certifications
-
-- 🏆 **Data Analysis** — American Express (Unstop) | Oct 2025 | _Python, Data Analysis, Business Analytics_
 
 ---
 
