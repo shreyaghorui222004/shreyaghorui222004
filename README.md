@@ -140,13 +140,13 @@
 
 <div align="center">
 
-<a href="https://anikchand.vercel.app"><img src="./assets/socials/portfolio.png" width="90px" height="90px" /></a>
+<a href="https://shreya-ghorui-portfolio.vercel.app/"><img src="./assets/socials/portfolio.png" width="90px" height="90px" /></a>
 <a href="https://www.linkedin.com/in/shreya-ghorui-63ab9b314/"><img src="./assets/socials/linkedin.png" width="90px" height="90px" /></a>
 <a href="https://github.com/shreyaghorui222004"><img src="./assets/socials/github.png" width="90px" height="90px" /></a>
 <a href="https://codolio.com/profile/shreyaghorui2004"><img src="./assets/socials/codolio.png" width="90px" height="90px" /></a>
 <a href="https://codeforces.com/profile/shreyaghorui222004"><img src="./assets/socials/codeforces.png" width="90px" height="90px" /></a>
 <a href="https://leetcode.com/u/shreyaghorui22/"><img src="./assets/socials/leetcode.png" width="90px" height="90px" /></a>
-<a href="https://dev.to/anikchand461"><img src="./assets/socials/devto.png" width="90px" height="90px" /></a>
+<a href="https://dev.to/shreya_ghorui"><img src="./assets/socials/devto.png" width="90px" height="90px" /></a>
 <a href="http://naukri.com/code360/profile/shreyaghorui"><img src="./assets/socials/code360.png" width="90px" height="90px" /></a>
 <a href="https://www.kaggle.com/shreyaghorui"><img src="./assets/socials/kaggle.png" width="90px" height="90px" /></a>
 <a href="https://www.codechef.com/users/shreyaghorui"><img src="./assets/socials/codechef.png" width="90px" height="90px" /></a>
