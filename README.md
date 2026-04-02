@@ -22,7 +22,7 @@
 > Passionate about **Data Scientist**,**System Designer**, **Power BI**, and **open-source contributions**.
 
 - 🎓 B.Tech in Information Technology @ **Netaji Subhash Engineering College** (2024–Present)
-- 💡 Interests: **System Design . DSA(C++) · Data Analysis · Feature Engineering · Dashboard Building**
+- 💡 Interests: **Data Science . System Design . DSA(C++) · Data Analysis · Feature Engineering · Dashboard Building**
 - 💬 Ask me about: **Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
 - 📫 Reach me at: **shreyaghorui202@gmail.com**
 - 🌍 Languages I speak: **English, Hindi, Bengali**
