@@ -26,7 +26,7 @@
 - 💬 Ask me about: **Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
 - 📫 Reach me at: **shreyaghorui202@gmail.com**
 - 🌍 Languages I speak: **English, Hindi, Bengali**
-- ⚡ Motto: *Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am*
+- ⚡ Motto: _Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am_
 
 ---
 
@@ -76,7 +76,8 @@
 ## 🚀 Featured Projects
 
 ### 📱 Smartphone Data Analysis Dashboard
-> *Python · Pandas · NumPy · Regex · Matplotlib · Streamlit — Oct 2025*
+
+> _Python · Pandas · NumPy · Regex · Matplotlib · Streamlit — Oct 2025_
 
 - Built an interactive Streamlit dashboard for a large unstructured smartphone dataset.
 - Cleaned and transformed data: handled missing values, inconsistent text, and extracted structured features (brand, RAM/ROM, battery, processor, display).
@@ -85,7 +86,8 @@
 ---
 
 ### 📊 Startup Analysis Web App
-> *Python · Pandas · Streamlit · Plotly — Aug 2025*
+
+> _Python · Pandas · Streamlit · Plotly — Aug 2025_
 
 - Built a Streamlit web app for India startup funding analysis.
 - Visualized trends: top investors, sectors, and funding patterns using interactive Plotly charts (bar, pie, tables).
@@ -93,7 +95,8 @@
 ---
 
 ### 💉 H4B – Vaccination Portal
-> *HTML · React.js · Firebase — Aug 2025*
+
+> _HTML · React.js · Firebase — Aug 2025_
 
 - Developed a vaccination management system with React + Firebase.
 - Features: authentication, appointment booking, dashboards, and chatbot assistance.
@@ -102,11 +105,13 @@
 
 ## 💼 Experience
 
-**Contributor – Open Source Connect** *(Jul 2025 – Present)*
+**Contributor – Open Source Connect** _(Jul 2025 – Present)_
+
 - Contributed to Flask + Pandas backend features.
 - Improved documentation and participated in code reviews.
 
-**Mentor – GirlScript Summer of Code** *(Jul 2025 – Sep 2025)*
+**Mentor – GirlScript Summer of Code** _(Jul 2025 – Sep 2025)_
+
 - Mentored contributors on Flask, Pandas, and best practices.
 - Guided issue resolution and technical discussions.
 
@@ -127,7 +132,7 @@
 
 ## 📜 Certifications
 
-- 🏆 **Data Analysis** — American Express (Unstop) | Oct 2025 | *Python, Data Analysis, Business Analytics*
+- 🏆 **Data Analysis** — American Express (Unstop) | Oct 2025 | _Python, Data Analysis, Business Analytics_
 
 ---
 
