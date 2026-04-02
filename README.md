@@ -9,7 +9,7 @@
 [![Follow](https://img.shields.io/github/followers/shreyaghorui222004?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/shreyaghorui222004)
 [![Stars](https://img.shields.io/github/stars/shreyaghorui222004?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/shreyaghorui222004?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=shreyaghorui222004&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/shreyaghorui222004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://shreyaghorui.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)]([https://shreyaghorui.vercel.app])
 
 </div>
 
@@ -120,7 +120,7 @@
 ## 🏅 Badges & Achievements
 
 <div align="center">
-
+  
 <img src="https://github.com/user-attachments/assets/c91fec2d-9740-4269-85cb-bd623578f342" width="90px" height="90px" title="Badge"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" height="90px" title="Pull Shark"/>
 <img src="https://github.com/user-attachments/assets/0bade864-2315-48f1-9acc-4b1bce01c464" width="90px" height="90px" title="Badge"/>
@@ -138,19 +138,17 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-
-<a href="https://anikchand.vercel.app"><img src="./assets/socials/portfolio.png" width="90px" height="90px" /></a>
+  
 <a href="https://www.linkedin.com/in/shreya-ghorui-63ab9b314/"><img src="./assets/socials/linkedin.png" width="90px" height="90px" /></a>
 <a href="https://github.com/shreyaghorui222004"><img src="./assets/socials/github.png" width="90px" height="90px" /></a>
 <a href="https://codolio.com/profile/shreyaghorui2004"><img src="./assets/socials/codolio.png" width="90px" height="90px" /></a>
 <a href="https://codeforces.com/profile/anikchand461"><img src="./assets/socials/codeforces.png" width="90px" height="90px" /></a>
-<a href="https://leetcode.com/u/anikchand461/"><img src="./assets/socials/leetcode.png" width="90px" height="90px" /></a>
+<a href="(https://leetcode.com/u/shreyaghorui22/)"><img src="./assets/socials/leetcode.png" width="90px" height="90px" /></a>
 <a href="https://dev.to/anikchand461"><img src="./assets/socials/devto.png" width="90px" height="90px" /></a>
 <a href="https://www.naukri.com/code360/profile/anikchand"><img src="./assets/socials/code360.png" width="90px" height="90px" /></a>
 <a href="https://www.kaggle.com/anikchand"><img src="./assets/socials/kaggle.png" width="90px" height="90px" /></a>
 <a href="https://www.codechef.com/users/anikchand461"><img src="./assets/socials/codechef.png" width="90px" height="90px" /></a>
 <a href="https://www.hackerrank.com/anikchand461"><img src="./assets/socials/hackerrank.png" width="90px" height="90px" /></a>
-<a href="https://gitlab.com/anikchand461"><img src="./assets/socials/gitlab.png" width="90px" height="90px" /></a>
 <a href="https://www.geeksforgeeks.org/profile/shreyaghorui"><img src="./assets/socials/gfg.png" width="90px" height="90px" /></a>
 <a href="https://atcoder.jp/users/shreyaghorui22"><img src="./assets/socials/atcoder.png" width="90px" height="90px" /></a>
 <a href="https://www.interviewbit.com/profile/shreyaghorui509_599a9a7d0ef1/"><img src="./assets/socials/interviewbit.png" width="90px" height="90px" /></a>
