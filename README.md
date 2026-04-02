@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 > From India 🇮🇳 — a backbencher with a knack for smart solutions.
-> Currently mastering **Data Science** 🧠 — turning data into decisions, one model at a time.
+> Currently mastering **Data Science** — turning data into decisions, one model at a time.
 > Passionate about **Data Scientist**,**System Designer**, **Power BI**, and **open-source contributions**.
 
 - 🎓 B.Tech in Information Technology @ **Netaji Subhash Engineering College** (2024–Present)
