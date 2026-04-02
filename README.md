@@ -135,24 +135,6 @@
 - 🏆 **Data Analysis** — American Express (Unstop) | Oct 2025 | _Python, Data Analysis, Business Analytics_
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyaghorui222004&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F0C040&icon_color=F0C040&text_color=e2d9c0&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyaghorui222004&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=F0C040&text_color=e2d9c0" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=shreyaghorui222004&hide_border=true&background=0d1117&stroke=F0C040&ring=F0C040&fire=FFA500&currStreakLabel=F0C040&sideLabels=e2d9c0&dates=8b8070&currStreakNum=F0C040&sideNums=e2d9c0" />
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
