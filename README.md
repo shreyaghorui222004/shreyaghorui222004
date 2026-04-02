@@ -143,7 +143,7 @@
 <a href="https://github.com/shreyaghorui222004"><img src="./assets/socials/github.png" width="90px" height="90px" /></a>
 <a href="https://codolio.com/profile/shreyaghorui2004"><img src="./assets/socials/codolio.png" width="90px" height="90px" /></a>
 <a href="https://codeforces.com/profile/anikchand461"><img src="./assets/socials/codeforces.png" width="90px" height="90px" /></a>
-<a href="(https://leetcode.com/u/shreyaghorui22/)"><img src="./assets/socials/leetcode.png" width="90px" height="90px" /></a>
+<a href="https://leetcode.com/u/shreyaghorui22/"><img src="./assets/socials/leetcode.png" width="90px" height="90px" /></a>
 <a href="https://dev.to/anikchand461"><img src="./assets/socials/devto.png" width="90px" height="90px" /></a>
 <a href="https://www.naukri.com/code360/profile/anikchand"><img src="./assets/socials/code360.png" width="90px" height="90px" /></a>
 <a href="https://www.kaggle.com/anikchand"><img src="./assets/socials/kaggle.png" width="90px" height="90px" /></a>
