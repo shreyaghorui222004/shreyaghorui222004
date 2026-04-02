@@ -135,10 +135,12 @@
 - 🏆 **Data Analysis** — American Express (Unstop) | Oct 2025 | _Python, Data Analysis, Business Analytics_
 
 ---
+
 ## 🌐 Connect with Me
 
 <div align="center">
-  
+
+<a href="https://anikchand.vercel.app"><img src="./assets/socials/portfolio.png" width="90px" height="90px" /></a>
 <a href="https://www.linkedin.com/in/shreya-ghorui-63ab9b314/"><img src="./assets/socials/linkedin.png" width="90px" height="90px" /></a>
 <a href="https://github.com/shreyaghorui222004"><img src="./assets/socials/github.png" width="90px" height="90px" /></a>
 <a href="https://codolio.com/profile/shreyaghorui2004"><img src="./assets/socials/codolio.png" width="90px" height="90px" /></a>
