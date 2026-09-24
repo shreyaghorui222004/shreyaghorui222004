@@ -17,13 +17,15 @@
 
 ## 👋 About Me
 
+<img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
+
 > From India 🇮🇳 — a backbencher with a knack for smart solutions.
 > Currently mastering **Data Science** — turning data into decisions, one model at a time.
 > Passionate about **Data Scientist**,**System Designer**, **Power BI**, and **open-source contributions**.
 
 - 🎓 B.Tech in Information Technology @ **Netaji Subhash Engineering College** (2024–Present)
 - 💡 Interests: **Data Science . System Design . DSA(C++) · Data Analysis · Feature Engineering · Dashboard Building**
-- 💬 Ask me about: **Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
+- 💬 Ask me about: **RAG / LangChain / Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
 - 📫 Reach me at: **shreyaghorui202@gmail.com**
 - 🌍 Languages I speak: **English, Hindi, Bengali**
 - ⚡ Motto: _Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am_
