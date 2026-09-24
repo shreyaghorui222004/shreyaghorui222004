@@ -88,8 +88,9 @@
 ## 🏅 Badges & Achievements
 
 <div align="center">
+<img src="/assets/badges/lc-100-2025.gif" width="90px" height="90px" title="LeetCode 100 Days 2026" />
+<img src="/assets/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2026" /> 
 <img src="/assets/badges/yolo.png" width="90px" height="90px" title="YOLO" />
-<img src="/assets/badges/lc-50-2025.gif" width="90px" height="90px" title="LeetCode 50 Days 2025" /> 
 <img src="https://github.com/user-attachments/assets/c91fec2d-9740-4269-85cb-bd623578f342" width="90px" height="90px" title="Badge"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90px" height="90px" title="Pull Shark"/>
 <img src="https://github.com/user-attachments/assets/0bade864-2315-48f1-9acc-4b1bce01c464" width="90px" height="90px" title="Badge"/>
