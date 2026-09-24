@@ -9,7 +9,7 @@
 [![Follow](https://img.shields.io/github/followers/shreyaghorui222004?label=Follow%20Me&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/shreyaghorui222004)
 [![Stars](https://img.shields.io/github/stars/shreyaghorui222004?label=Total%20Stars&style=for-the-badge&logo=github&color=F0C040&logoColor=black)](https://github.com/shreyaghorui222004?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=shreyaghorui222004&style=for-the-badge&color=58a6ff&label=Profile+Views)](https://github.com/shreyaghorui222004)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=black)](https://shreya-ghorui-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-F0C040?style=for-the-badge&logo=vercel&logoColor=Purple)](https://shreya-ghorui-portfolio.vercel.app/)
 
 </div>
 
@@ -19,16 +19,25 @@
 
 <img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
-> From India 🇮🇳 — a backbencher with a knack for smart solutions.
-> Currently mastering **Data Science** — turning data into decisions, one model at a time.
-> Passionate about **Data Scientist**,**System Designer**, **Power BI**, and **open-source contributions**.
+> 🇮🇳 **Building intelligent systems from data, code, and curiosity.**
+>
+> 🤖 **AI Engineer in progress** — exploring **Generative AI, RAG, LLM applications, and Machine Learning** by building real-world systems.
+>
+> 🧠 I enjoy turning complex problems into **scalable AI solutions, data-driven insights, and clean developer experiences.**
+>
+> * 🎓 **B.Tech in Information Technology** @ Netaji Subhash Engineering College
+> * 🚀 Building with **Python · FastAPI · LangChain · Qdrant · PostgreSQL · SQL**
+> * 🤖 Exploring **LLMs · RAG · AI Agents · Vector Databases · Machine Learning**
+> * 📊 Interested in **Data Science · Data Analytics · Power BI · Data Visualization**
+> * 🧩 Practicing **DSA in C++ · System Design · Backend Engineering**
+> * 🌱 Open-source contributor — **NumPy PR #30798 merged**
+> * 💡 Projects: **AI GitHub Repository Assistant · Medical AI Assistant · Startup Funding Analytics**
+> * 💬 Ask me about **RAG, LangChain, FastAPI, Python, DSA, Data Analytics & AI**
+> * 📫 **[shreyaghorui202@gmail.com](mailto:shreyaghorui202@gmail.com)**
+> * 🌍 **English · Hindi · Bengali**
+>
+> **⚡ Build → Break → Debug → Learn → Improve**
 
-- 🎓 B.Tech in Information Technology @ **Netaji Subhash Engineering College** (2024–Present)
-- 💡 Interests: **Data Science . System Design . DSA(C++) · Data Analysis · Feature Engineering · Dashboard Building**
-- 💬 Ask me about: **RAG / LangChain / Python /System Design/ DSA(C++) / Web Dev / Data Visualization / Anything**
-- 📫 Reach me at: **shreyaghorui202@gmail.com**
-- 🌍 Languages I speak: **English, Hindi, Bengali**
-- ⚡ Motto: _Efficiency + Innovation + Adaptability + Analytical Thinking = Who I Am_
 
 ---
 
@@ -62,6 +71,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6B4FBB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools & Databases
 
